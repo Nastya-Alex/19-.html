@@ -1,1 +1,3 @@
-# ks-pgyti
+---
+permalink: /19 ПР.html
+---
